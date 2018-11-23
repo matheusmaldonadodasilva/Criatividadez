@@ -1,0 +1,4 @@
+Vermelho - #ed1c24
+Vermelho Focus - #B22222
+Branco Gelo - #ebebeb
+Vermelho slider - #E76565
