@@ -1,0 +1,27 @@
+body {
+    background: url(../imgs/bgadm.png);   
+    
+}
+
+a {
+    
+    color:#ebebeb; 
+    
+    
+}
+
+
+a:hover{
+    
+    color:#ebebeb;
+   
+}
+ul:link {
+    color:#ed1c24;
+    }
+
+
+ul :visited {color:#ebebeb;
+    }
+
+
