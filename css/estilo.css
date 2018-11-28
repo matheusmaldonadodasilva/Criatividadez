@@ -17,8 +17,8 @@ body {
 
     margin-top:-2px;
     height: 80px;
-    background-color: #5D478B;
-    border-color: #5D478B;
+    background-color: #000;
+    border-color: #000;
 
 }
 
@@ -148,8 +148,11 @@ footer {
 }
 
 .logo{
+    margin-top: -57px;
     margin-left: 10px;
     padding: 0px;
+    height: 160px;
+    width: 185px;
 }
 
 
@@ -176,7 +179,7 @@ footer {
 #search-navbar{
     width: 800px;
     height: 47px;
-    margin-left:-8px;
+    margin-left:40px;
 }
 
 .divslider{
@@ -184,26 +187,40 @@ footer {
 }
 
 #button-addon2{
-    margin-left:-8px;
+    margin-left:-9px;
     height: 47px;
+    background-color: #fff952;
+
 }
 
 #a-nav-topics{
     margin-left: 10px;
+    color: #000;
 }
-
+#a-nav-topics-two{
+    margin-top: -30px;
+    margin-right: 850px;
+}
+#a-nav-separate{
+margin-left: 10px;
+}
 #nav-two{
     margin-top: -27px;
 height: 30px;   
-background-color: #8968CD;
-    border-color: #8968CD;
+background-color: #fff952;
+    border-color: #fff952;
 }
+
+
 
 #a-nav-two-topics{
     margin-top: 10px;
 }
 #button-dropdown-search{
     height: 47px;
+    background-color: #fff952;
+    margin-left: -876px;
+
 }
 
 #h3-promotion-day{
@@ -212,8 +229,38 @@ margin-top: 10px;
 }
 
 #separate{
-    background-color: #5D478B;
-    color: #5D478B;
+    background-color: #000;
+    color: #000;
     height: 2px;
 }
+
+
+.card-effect{
+    overflow: hidden;
+}
+
+.card-effect img{
+    transition: all 1.2s ease;
+}
+
+.card-effect:hover img{
+transform: scale(1.2);
+}
+
+
+.thumbnail{
+    overflow: hidden;
+}
+
+.thumbnail img{
+    transition: all 1.2s ease;
+}
+
+.thumbnail:hover img{
+transform: scale(1.2);
+}
+
+
+
+
 
